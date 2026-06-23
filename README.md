@@ -1,4 +1,4 @@
-# 🏪 Pre-Entrega - E-Commerce
+# 🏪 Pre-Entrega de Proyecto - E-Commerce
 
 > Una herramienta de interfaz de línea de comandos (CLI) diseñada para interactuar de forma asíncrona con servicios de catálogo de productos.
 
